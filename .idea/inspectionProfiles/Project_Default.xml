@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.generate_pattern" />
+          <option value="main.count_chars" />
+          <option value="main.count_words" />
+          <option value="main.is_checkable" />
+          <option value="main.get_unknown_chars" />
+          <option value="main.check_pattern" />
+          <option value="main.encoded_text" />
+          <option value="main.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
